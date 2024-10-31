@@ -27,7 +27,7 @@ Um aplicativo desenvolvido em React Native para gerar senhas seguras de forma rÃ
 3. Instale as dependÃªncias:
 
    ```bash
-   cd gerador-de-senhas-seguras
+   npm install
    
 4. Inicie o aplicativo com Expo:
    
